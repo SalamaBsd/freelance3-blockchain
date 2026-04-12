@@ -1,16 +1,16 @@
-# 🔗 Freelance3 Blockchain
+#  Freelance3 Blockchain
 
 A decentralized freelance platform built with **React**, **Solidity**, **Truffle** and **Ganache**.  
 Clients can post jobs, freelancers can accept missions, and payments are handled automatically via smart contracts — no intermediary needed.
 
-## 🚀 Features
+##  Features
 
 - 📋 Post freelance jobs on the blockchain
 - ✅ Accept and complete missions
 - 💸 Automatic payment via smart contracts
 - 🔐 Decentralized & trustless — no third party
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -21,22 +21,23 @@ Clients can post jobs, freelancers can accept missions, and payments are handled
 | Wallet | MetaMask |
 
 ## 📁 Project Structure
-projet_blockchaine_freelance/
-├── Blockchaine_freelance_traffule/
-│   ├── contracts/
-│   │   └── freelance.sol
-│   ├── migrations/
-│   ├── build/
-│   └── truffle-config.js
-└── Interface_blockchaine_freelance_project/
-├── src/
-│   ├── pages/
-│   │   ├── JobList.jsx
-│   │   └── PostJob.jsx
-│   ├── components/
-│   │   └── Navbar.jsx
-│   └── contract.js
-└── public/
+
+    projet_blockchaine_freelance/
+    ├── Blockchaine_freelance_traffule/
+    │   ├── contracts/
+    │   │   └── freelance.sol
+    │   ├── migrations/
+    │   ├── build/
+    │   └── truffle-config.js
+    └── Interface_blockchaine_freelance_project/
+        ├── src/
+        │   ├── pages/
+        │   │   ├── JobList.jsx
+        │   │   └── PostJob.jsx
+        │   ├── components/
+        │   │   └── Navbar.jsx
+        │   └── contract.js
+        └── public/
 
 ## ⚙️ Getting Started
 
